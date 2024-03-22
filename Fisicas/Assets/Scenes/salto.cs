@@ -1,4 +1,4 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -9,7 +9,7 @@ public class salto : MonoBehaviour
 
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -28,7 +28,7 @@ public class salto : MonoBehaviour
 
     bool EstaEnTierra()
     {
-        float distancia = 1.1f; // Ajusta la distancia según el tamaño de tu personaje
+        float distancia = 1.1f; // Ajusta la distancia segï¿½n el tamaï¿½o de tu personaje
         RaycastHit hit;
         if (Physics.Raycast(transform.position, Vector3.down, out hit, distancia))
         {

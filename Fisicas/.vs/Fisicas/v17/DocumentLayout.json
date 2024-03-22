@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\assets\\scenes\\salto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|c:\\users\\endika\\onedrive\\documentos\\github\\fisicas\\fisicas\\assets\\scenes\\salto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\salto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|c:\\users\\endika\\onedrive\\documentos\\github\\fisicas\\fisicas\\assets\\scenes\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\assets\\scenes\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Assets\\Scenes\\salto.cs",
               "ToolTip": "C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\Assets\\Scenes\\salto.cs",
               "RelativeToolTip": "Assets\\Scenes\\salto.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwBYAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T08:23:30.379Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Assets\\Scenes\\movimiento.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAYwBUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T07:15:38.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T07:15:38.811Z"
             }
           ]
         }
