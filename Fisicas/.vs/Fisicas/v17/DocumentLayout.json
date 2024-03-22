@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|c:\\users\\endika\\onedrive\\documentos\\github\\fisicas\\fisicas\\assets\\scenes\\disparar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\disparar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\assets\\scenes\\salto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\salto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|c:\\users\\endika\\onedrive\\documentos\\github\\fisicas\\fisicas\\assets\\scenes\\destruir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\destruir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|c:\\users\\endika\\onedrive\\documentos\\github\\fisicas\\fisicas\\assets\\scenes\\disparar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\disparar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "destruir.cs",
+              "DocumentMoniker": "C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\Assets\\Scenes\\destruir.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\destruir.cs",
+              "ToolTip": "C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\Assets\\Scenes\\destruir.cs",
+              "RelativeToolTip": "Assets\\Scenes\\destruir.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:17:20.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "disparar.cs",
               "DocumentMoniker": "C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\Assets\\Scenes\\disparar.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\disparar.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "salto.cs",
               "DocumentMoniker": "C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\Assets\\Scenes\\salto.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\salto.cs",
@@ -43,7 +60,8 @@
               "RelativeToolTip": "Assets\\Scenes\\salto.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T08:23:30.379Z"
+              "WhenOpened": "2024-03-21T08:23:30.379Z",
+              "EditorCaption": ""
             }
           ]
         }
