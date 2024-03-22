@@ -61,7 +61,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scenes\movimiento.cs" />
+    <Compile Include="Assets\Scenes\destruir.cs" />
     <Compile Include="Assets\Scenes\salto.cs" />
+    <Compile Include="Assets\Scenes\Color tag.cs" />
+    <Compile Include="Assets\Scenes\disparar.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

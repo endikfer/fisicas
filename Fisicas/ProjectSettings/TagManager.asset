@@ -5,11 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - tierra
+  - pistola
+  - bala
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Killable
   - Water
   - UI
   - 

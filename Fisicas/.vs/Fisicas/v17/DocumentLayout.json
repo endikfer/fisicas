@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|c:\\users\\endika\\onedrive\\documentos\\github\\fisicas\\fisicas\\assets\\scenes\\salto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\salto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|c:\\users\\endika\\onedrive\\documentos\\github\\fisicas\\fisicas\\assets\\scenes\\disparar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\disparar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\assets\\scenes\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\assets\\scenes\\salto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6194F27-6664-B5D1-4975-7A34C48841E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\salto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "salto.cs",
-              "DocumentMoniker": "C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\Assets\\Scenes\\salto.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\salto.cs",
-              "ToolTip": "C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\Assets\\Scenes\\salto.cs",
-              "RelativeToolTip": "Assets\\Scenes\\salto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Title": "disparar.cs",
+              "DocumentMoniker": "C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\Assets\\Scenes\\disparar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\disparar.cs",
+              "ToolTip": "C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\Assets\\Scenes\\disparar.cs",
+              "RelativeToolTip": "Assets\\Scenes\\disparar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T08:23:30.379Z",
+              "WhenOpened": "2024-03-22T07:51:43.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "movimiento.cs",
-              "DocumentMoniker": "C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\Assets\\Scenes\\movimiento.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\movimiento.cs",
-              "ToolTip": "C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\Assets\\Scenes\\movimiento.cs",
-              "RelativeToolTip": "Assets\\Scenes\\movimiento.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBUAAAAFAAAA",
+              "Title": "salto.cs",
+              "DocumentMoniker": "C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\Assets\\Scenes\\salto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\salto.cs",
+              "ToolTip": "C:\\Users\\Endika\\OneDrive\\Documentos\\GitHub\\fisicas\\Fisicas\\Assets\\Scenes\\salto.cs",
+              "RelativeToolTip": "Assets\\Scenes\\salto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T07:15:38.811Z"
+              "WhenOpened": "2024-03-21T08:23:30.379Z"
             }
           ]
         }
